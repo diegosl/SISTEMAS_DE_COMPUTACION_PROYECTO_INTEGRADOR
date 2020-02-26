@@ -7,7 +7,7 @@ Se utilizaron 2 lenguajes de programacion para la implementacion del proyecto, l
 * [main.c](https://github.com/diegosl/SISTEMAS_DE_COMPUTACION_PROYECTO_INTEGRADOR/blob/master/CODIGO%20ENSAMBLADOR/main.c)
 * [LamparaDePieInteligente.aia](https://github.com/diegosl/SISTEMAS_DE_COMPUTACION_PROYECTO_INTEGRADOR/blob/master/CODIGO%20ANDROID/LamparaDePieInteligente.aia)
 
-La aplicacion para sistema operativo Android es:
+La aplicación para sistema operativo Android es:
 * [LamparaDePieInteligente.apk](https://github.com/diegosl/SISTEMAS_DE_COMPUTACION_PROYECTO_INTEGRADOR/blob/master/APLICACION%20ANDROID/LamparaDePieInteligente.apk)
 
 ## INTEGRANTES DE GRUPO:
